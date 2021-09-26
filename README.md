@@ -13,7 +13,7 @@
   
 ## the training will show you how to achieve the creation of an AWS network profile 2a by using:
   * ###  1 parent module with hard coded object properties (available in repo)
-  * ###  1 parent module with object properties in variable files (coming soon ...)
+  * ###  1 parent module with object properties in variable files (available in repo)
   * ###  multiple modules with hard coded object properties (coming soon ...)
   * ###  multiple modules with object properties in variable files (coming soon ...)
   * ###  already created objects (coming soon ...)
