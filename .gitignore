@@ -1,6 +1,6 @@
 .terraform/
 terraform.*
-old_data
+old_data*
 key_vars.tf
 
 
