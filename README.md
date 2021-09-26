@@ -10,6 +10,7 @@
   * ###  1 NAT gateway
   * ###  3 security groups (all the inboud rules will be created as individual objects)
   * ###  2 ec2 instance (one instance for the public & private subnets)
+  
 ## the training will show you how to achieve the creation of an AWS network profile 2a by using:
   * ###  1 parent module with hard coded object properties (available in repo)
   * ###  1 parent module with object properties in variable files (coming soon ...)
