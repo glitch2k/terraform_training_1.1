@@ -8,7 +8,7 @@
   #--------create NAT gateway (ngw)
   #--------create security groups without rules
   #--------create security group rules
-  #--------create ec2 instance x2
+  #--------create ec2 instance x2 
 
 
 provider "aws" {
