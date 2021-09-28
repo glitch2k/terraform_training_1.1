@@ -15,6 +15,7 @@
   * ###  1 parent module with hard coded object properties (available in repo)
   * ###  1 parent module with object properties in variable files (available in repo)
   * ###  1 parent module with object properties in variable files & value source file (available in repo)
+  * ###  1 parent module with object properties in variable files, value source file & data source (coming soon ...)
   * ###  multiple modules with hard coded object properties (coming soon ...)
   * ###  multiple modules with object properties in variable files (coming soon ...)
   * ###  already created objects (coming soon ...)
